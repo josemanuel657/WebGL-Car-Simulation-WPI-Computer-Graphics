@@ -1,4 +1,8 @@
 # WebGL-Car-Simulation
+Hello and thank you for exploring my project! My name is Jose Manuel and I am an undergraduate student studying computer science at Worcester Polytechnic Institute. This project is a pivotal part of my coursework for CS543 (Computer Graphics) for undergraduates.
+
+# Overview
+This WebGL Car Simulation project showcases a range of computer graphics techniques through WebGL. The simulation renders a detailed scene which includes a car, alongside other objects, each possessing unique lighting, reflection, and refraction settings to demonstrate various graphics techniques vividly.
 # File and Directory Structure
 Here's a breakdown of the files and folders included in this project:
 
