@@ -1,15 +1,8 @@
 # WebGL-Car-Simulation
-
+Welcome to the WebGL Car Simulation project, a vivid and immersive 3D environment that brings to life a dynamic roundabout scene. My name is Jose Manuel and I am an undergraduate student studying computer science at Worcester Polytechnic Institute. This project is the final assigment for CS 543 (Computer Graphics).
 
 # Overview
-Welcome to the WebGL Car Simulation project, a vivid and immersive 3D environment that brings to life a dynamic roundabout scene. My name is Jose Manuel and I am an undergraduate student studying computer science at Worcester Polytechnic Institute. This project is the final assigment for CS 543 (Computer Graphics).Leveraging cutting-edge WebGL and JavaScript techniques, the project showcases a vibrant interactive 3D simulation encapsulating the following elements:
-
-The Car: At the heart of the scene, exhibiting realistic textures and materials.
-Bunny on the Car: Affixed atop the car, maintaining its position through a hierarchical modeling approach.
-Stop Sign: Directing the car’s pathway, a fundamental road safety element brought to life.
-Lamp in the Roundabout: Illuminating the scene, adding depth and a realistic touch.
-Skybox: Enhancing the overall visual appeal with captivating textures that surround the environment.
-Realism in this simulation is heightened with dynamic reflections and refractions, which can be explored through various viewing angles including an immersive in-car perspective.
+Leveraging cutting-edge WebGL and JavaScript techniques, the project showcases a vibrant interactive 3D simulation encapsulating the following elements:
 
 - The Car: Positioned at the epicenter of the action, the car moves gracefully around the roundabout, offering a spectacle of computer graphics prowess through realistic textures and materials.
 - Bunny on the Car: Adding a whimsical touch is a bunny situated atop the car. The bunny maintains its position regardless of the car's movements, achieved through a hierarchical modeling approach.
@@ -18,6 +11,8 @@ Realism in this simulation is heightened with dynamic reflections and refraction
 - Skybox: Surrounding the entire scene is a skybox adorned with captivating textures, enhancing the visual appeal and immersion of the simulation.
 - Reflection and Refraction: Witness dynamic reflections and refractions in action, which can be toggled and manipulated through dedicated hotkeys to alter the visual experience.
 - Interactive Camera: Engage with a flexible camera system that allows for rotations and movements through different hotkeys, including an exhilarating in-car view to immerse oneself in the driver’s seat.
+
+Realism in this simulation is heightened with dynamic reflections and refractions, which can be explored through various viewing angles including an immersive in-car perspective.
 
 # Interactive Hotkeys
 Users can interact with the scene using various hotkeys, unlocking different perspectives, and manipulating reflection and refraction settings to witness the scene under different graphical setups.
